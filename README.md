@@ -1,1 +1,1 @@
-# magento-dev
+# magento2_sample
